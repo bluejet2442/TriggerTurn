@@ -1,2 +1,2 @@
 # TriggerTurn
-you have to download this mod on monkeforge, this is just for the source code
+id recommend to download this mod on monkeforge, this is mainly just for the source code
